@@ -34,10 +34,15 @@
 
 ## 📂 Folder Structure
 folder-hover-animation <br>
-│<br>
-├── index.html # Main HTML structure <br>
-├── main.js # GSAP animation logic <br>
-└── style.css 
+├─ index.html <br>
+├─ package.json <br> 
+├─ postcss.config.cjs <br> 
+├─ vite.config.ts <br> 
+├─ assets
+├─ src/ <br> 
+│  ├─ main.js <br> 
+│  └─ style.css <br>
+└─ README.md 
 
 
 ---
