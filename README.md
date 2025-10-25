@@ -38,7 +38,7 @@ folder-hover-animation <br>
 ├─ package.json <br> 
 ├─ postcss.config.cjs <br> 
 ├─ vite.config.ts <br> 
-├─ assets
+├─ assets <br>
 ├─ src/ <br> 
 │  ├─ main.js <br> 
 │  └─ style.css <br>
